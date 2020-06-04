@@ -4,7 +4,7 @@ export const MainStyle = styled.main`
   display:flex;
   align-items:center;
   flex-direction:column;
-  padding:120px;
+  padding:119px;
 
   section {
     display:flex;
