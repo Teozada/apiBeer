@@ -14,7 +14,7 @@ img{
   width:300px;
   height:300px;
   margin-right:10px;
-  margin-top:20px;
+  margin-top:19px;
   }
 
 div{
