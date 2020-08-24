@@ -1,3 +1,6 @@
-body{
-  background: #925946;
+html {
+  background: #d3d3d3;
+}
+* {
+  margin: 0;
 }
